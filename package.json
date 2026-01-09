@@ -2,7 +2,7 @@
   "name": "basement-extension-pack",
   "displayName": "Basement Extension Pack",
   "description": "Extension pack for nerds that code in their Basement",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "BasementCoder",
   "engines": {
     "vscode": "^1.50.0"
