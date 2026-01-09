@@ -1,0 +1,43 @@
+{
+  "name": "basement-extension-pack",
+  "displayName": "Basement Extension Pack",
+  "description": "Extension pack for nerds that code in their Basement",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.108.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Stephanevg/basement-extension-pack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Stephanevg/basement-extension-pack/issues"
+  },
+  "extensionPack": [
+    "eamodio.gitlens",
+    "github.copilot",
+    "github.copilot-chat",
+    "hediet.vscode-drawio",
+    "johnpapa.vscode-peacock",
+    "mechatroner.rainbow-csv",
+    "ms-vscode.powershell",
+    "oderwat.indent-rainbow",
+    "redhat.vscode-xml",
+    "redhat.vscode-yaml",
+    "usernamehw.errorlens",
+    "gruntfuggly.todo-tree"
+  ],
+  "icon": "images/logo.png",
+  "author": {
+    "name": "Justin Grote",
+    "url": "https://github.com/JustinGrote"
+  },
+  "keywords": [
+    "powershell",
+    "pwsh",
+    "Basement"
+  ]
+}
