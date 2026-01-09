@@ -3,6 +3,7 @@
   "displayName": "Basement Extension Pack",
   "description": "Extension pack for nerds that code in their Basement",
   "version": "1.0.0",
+  "publisher": "BasementCoder",
   "engines": {
     "vscode": "^1.108.0"
   },
@@ -18,7 +19,6 @@
   },
   "extensionPack": [
     "eamodio.gitlens",
-    "github.copilot",
     "github.copilot-chat",
     "hediet.vscode-drawio",
     "johnpapa.vscode-peacock",
@@ -32,8 +32,8 @@
   ],
   "icon": "images/logo.png",
   "author": {
-    "name": "Justin Grote",
-    "url": "https://github.com/JustinGrote"
+    "name": "BasementCoder",
+    "url": "https://github.com/stephanevg"
   },
   "keywords": [
     "powershell",
